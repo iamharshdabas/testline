@@ -21,13 +21,14 @@ This is a React-based application designed to help users prepare for exams like 
 
 ## Video
 
-[![Watch the video](https://raw.githubusercontent.com/iamharshdabas/testline/main/thumbnail.png)](https://raw.githubusercontent.com/iamharshdabas/testline/main/video.mp4)
+Click on it
+[![Watch the video](https://raw.githubusercontent.com/iamharshdabas/testline/main/thumbnail.png)](https://vimeo.com/1052390696)
 
 ---
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/iamharshdabas/testline/main/screenshot.mp4)
+![screenshot](https://raw.githubusercontent.com/iamharshdabas/testline/refs/heads/main/screenshot.png)
 
 ---
 
