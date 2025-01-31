@@ -6,14 +6,28 @@ This is a React-based application designed to help users prepare for exams like 
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Project Structure](#project-structure)
-3. [Components](#components)
-4. [State Management](#state-management)
-5. [Routing](#routing)
-6. [API Integration](#api-integration)
-7. [Usage](#usage)
-8. [Dependencies](#dependencies)
+1. [Video](#video)
+2. [Screenshot](#screenshot)
+3. [Features](#features)
+4. [Project Structure](#project-structure)
+5. [Components](#components)
+6. [State Management](#state-management)
+7. [Routing](#routing)
+8. [API Integration](#api-integration)
+9. [Usage](#usage)
+10. [Dependencies](#dependencies)
+
+---
+
+## Video
+
+[![Watch the video](https://raw.githubusercontent.com/iamharshdabas/testline/main/thumbnail.png)](https://raw.githubusercontent.com/iamharshdabas/testline/main/video.mp4)
+
+---
+
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/iamharshdabas/testline/main/screenshot.mp4)
 
 ---
 
