@@ -13,7 +13,7 @@ type Props = {
   time?: number;
 };
 
-export default function Test({ questions, time = 1 * 10 }: Props) {
+export default function Test({ questions, time = 15 * 60 }: Props) {
   const { showResult, userAnswers, isTimerRunning, initializeUserAnswers } =
     useTestStore();
 
